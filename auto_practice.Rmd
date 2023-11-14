@@ -2,7 +2,7 @@
 title: "automation practice"
 author: "ankit gupta & brian higginbotham"
 date: "2023-11-14"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}

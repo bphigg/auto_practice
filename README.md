@@ -5,3 +5,5 @@ This is a stupid practice page where I practice stoopid things like automation.
 So there!!
 
 [gitpage rendered!](https://bphigg.github.io/auto_practice/auto_practice)
+
+[paul replacementberg](https://bphigg.github.io/auto_practice/the_replacements)
